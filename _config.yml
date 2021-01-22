@@ -2,7 +2,7 @@
 title: 新传媒
 SEOTitle: 新传媒 - 新型自媒体
 header-img: img/post-bg-desk.jpg
-email: klovien@gmail.com
+email: 1251279090@qq.com
 description: "新传媒，传播新能量，传播正能量！"
 keyword: "新媒体, 自媒体, 媒体, 新传媒"
 url: "https://xinmedia.github.io"          # your host, for absolute URL
@@ -20,7 +20,7 @@ sidebar-avatar: /img/about-someone.jpg      # use absolute URL, seeing it's used
 RSS: false
 # weibo_username:     qiubaiying
 # zhihu_username:     qiubaiying
-# github_username:    qiubaiying
+github_username:    xinmedia
 # facebook_username:  baiying.qiu.7
 # jianshu_username:   e71990ada2fd
 # twitter_username:   qiubaiying
