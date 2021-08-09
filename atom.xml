@@ -3,11 +3,11 @@
   <title>新传媒</title>
   
   <subtitle>传播新力量，传播正能量！</subtitle>
-  <link href="https://xinmedia.github.io/atom.xml" rel="self"/>
+  <link href="https://xin.media/atom.xml" rel="self"/>
   
-  <link href="https://xinmedia.github.io/"/>
+  <link href="https://xin.media/"/>
   <updated>2021-08-07T07:34:00.333Z</updated>
-  <id>https://xinmedia.github.io/</id>
+  <id>https://xin.media/</id>
   
   <author>
     <name>新·传媒</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>锑矿石是什么样的？</title>
-    <link href="https://xinmedia.github.io/2021/08/07/ti-kuang-shi-shi-shi-me-yang-de.html"/>
-    <id>https://xinmedia.github.io/2021/08/07/ti-kuang-shi-shi-shi-me-yang-de.html</id>
+    <link href="https://xin.media/2021/08/07/ti-kuang-shi-shi-shi-me-yang-de.html"/>
+    <id>https://xin.media/2021/08/07/ti-kuang-shi-shi-shi-me-yang-de.html</id>
     <published>2021-08-07T07:01:27.000Z</published>
     <updated>2021-08-07T07:34:00.333Z</updated>
     
@@ -34,19 +34,19 @@
     
     
     
-    <category term="测试中" scheme="https://xinmedia.github.io/categories/%E6%B5%8B%E8%AF%95%E4%B8%AD/"/>
+    <category term="测试中" scheme="https://xin.media/categories/%E6%B5%8B%E8%AF%95%E4%B8%AD/"/>
     
     
-    <category term="维护" scheme="https://xinmedia.github.io/tags/%E7%BB%B4%E6%8A%A4/"/>
+    <category term="维护" scheme="https://xin.media/tags/%E7%BB%B4%E6%8A%A4/"/>
     
-    <category term="测试" scheme="https://xinmedia.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
+    <category term="测试" scheme="https://xin.media/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
   <entry>
     <title>事例</title>
-    <link href="https://xinmedia.github.io/2021/08/06/shi-li.html"/>
-    <id>https://xinmedia.github.io/2021/08/06/shi-li.html</id>
+    <link href="https://xin.media/2021/08/06/shi-li.html"/>
+    <id>https://xin.media/2021/08/06/shi-li.html</id>
     <published>2021-08-05T16:00:00.000Z</published>
     <updated>2021-08-06T16:21:47.608Z</updated>
     
@@ -61,19 +61,19 @@
     
     
     
-    <category term="维护中" scheme="https://xinmedia.github.io/categories/%E7%BB%B4%E6%8A%A4%E4%B8%AD/"/>
+    <category term="维护中" scheme="https://xin.media/categories/%E7%BB%B4%E6%8A%A4%E4%B8%AD/"/>
     
     
-    <category term="维护" scheme="https://xinmedia.github.io/tags/%E7%BB%B4%E6%8A%A4/"/>
+    <category term="维护" scheme="https://xin.media/tags/%E7%BB%B4%E6%8A%A4/"/>
     
-    <category term="测试" scheme="https://xinmedia.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
+    <category term="测试" scheme="https://xin.media/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://xinmedia.github.io/2021/06/20/hello-world.html"/>
-    <id>https://xinmedia.github.io/2021/06/20/hello-world.html</id>
+    <link href="https://xin.media/2021/06/20/hello-world.html"/>
+    <id>https://xin.media/2021/06/20/hello-world.html</id>
     <published>2021-06-19T22:06:36.590Z</published>
     <updated>2021-01-28T10:46:08.270Z</updated>
     
